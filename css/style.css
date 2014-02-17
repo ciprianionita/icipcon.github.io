@@ -1,0 +1,7 @@
+#bg {position:fixed; left:0; top:0; overflow:hidden; z-index:-999; height:100%; width:100%;}
+
+@media (min-width: 768px) {
+.navbar-nav.navbar-right:last-child {margin-right:15px;}
+}
+.jumbotron h1 {font-size:24px;}
+.jumbotron p, .jumbotron a {font-size:14px;}
